@@ -8,6 +8,13 @@
 html, body {
 	margin: 0;
 	box-sizing: border-box;
+	font-family: "Lucida Console";
+	color: lawngreen;
+}
+
+.black-background {
+	background-color: black;
+	opacity: .8;
 }
 
 .container {
@@ -17,6 +24,31 @@ html, body {
 
 .clearfix {
 	clear: both;
+}
+
+h1 {
+	display: inline-block;
+}
+
+.instructions-content {
+	color: black;
+}
+
+.instructions-wrapper {
+	border: 4px solid black;
+}
+
+.right {
+	display: inline-block;
+	float: right;
+	width: 50%;
+}
+
+.center {
+	width: 65%;
+	margin: auto;
+	text-align: center;
+	align-content: center;
 }
 
 /* create a responsive container */

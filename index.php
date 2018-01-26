@@ -14,9 +14,9 @@
 
 			<!-- HEADER -->
 			<header>
-				<div class="container">
+				<div class="container black-background">
 					<h1>Dylan McDonald:~$</h1>
-					<em>Computer Scientist. Cat Lover. Picard Fan.</em>
+					<em class=tag-line">Computer Scientist. Cat Lover. Picard Fan.</em>
 				</div>
 			</header>
 
@@ -25,7 +25,7 @@
 				<div class="container">
 
 					<!-- WELCOME IMAGE -->
-					<img src="images/welcome.gif" alt="welcome to my homepage">
+					<img src="images/welcome.gif" alt="welcome to my homepage" class="center">
 
 					<div class="instructions-wrapper">
 						<div class="instructions-content">
@@ -37,7 +37,7 @@
 								<li>Have fun! The solution will be demonstrated in class. <small>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</small></li>
 							</ol>
 						</div>
-						<img src="images/captain-janeway.png" alt="captain janeway" />
+						<img src="images/captain-janeway.png" alt="captain janeway" class="right"/>
 						<div class="clearfix"></div>
 					</div><!--/.instructions-->
 				</div><!--/.container-->
