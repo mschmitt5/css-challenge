@@ -39,6 +39,12 @@ html, body {
 	clear: both;
 }
 
+.form-wrapper {
+    background-color: lawngreen;
+    opacity: .1;
+    margin: 40px;
+}
+
 h1 {
 	display: inline-block;
 }
@@ -56,22 +62,39 @@ h1 {
 	margin: 30px;
 }
 
+.janeway {
+    margin: 20px;
+    width: 25%;
+    height: 25%;
+}
+
 .left {
 	float: left;
 	display: inline-block;
 	width: 30%;
 }
 
-
 .picard {
 	border: 3px solid white;
 	margin-right: 30px;
 }
 
-.janeway {
-	margin: 20px;
-	width: 25%;
-	height: 25%;
+.right {
+    float: right;
+}
+
+.skillzH2 {
+    color: black;
+    display: block;
+}
+
+table, td, th {
+    display: table;
+    border 2px solid white;
+}
+
+tr {
+    align-content: left;
 }
 
 
