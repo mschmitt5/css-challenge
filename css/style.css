@@ -46,9 +46,11 @@ footer {
 }
 
 .form-wrapper {
-    background-color: lawngreen;
-    opacity: .1;
+    background-color: darkgreen;
+			/*rgba(124, 252, 0, .6);
+			*/
     margin: 40px;
+	color: lawngreen;
 }
 
 h1 {
