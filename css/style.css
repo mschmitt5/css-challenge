@@ -12,9 +12,23 @@ html, body {
 	color: lawngreen;
 }
 
+.about-me {
+	background-color: mediumblue;
+	color: white;
+	padding: 15px;
+}
+
 .black-background {
 	background-color: black;
 	opacity: .8;
+}
+
+.center {
+	width: 65%;
+	margin: auto;
+	text-align: center;
+	align-content: center;
+	display: block;
 }
 
 .container {
@@ -39,18 +53,25 @@ h1 {
     padding: 10px;
 }
 
+.left {
+	float: left;
+	display: inline-block;
+	width: 30%;
+}
+
+
+.picard {
+	border: 3px solid white;
+	margin: 10px;
+}
+
 .right {
 	float: right;
 	width: 25%;
-    display: inline-block;
 }
 
-.center {
-	width: 65%;
-	margin: auto;
-	text-align: center;
-	align-content: center;
-}
+
+
 
 /* create a responsive container */
 @media only screen and (min-width: 1200px) {
