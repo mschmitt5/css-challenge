@@ -15,7 +15,7 @@ html, body {
 .about-me {
 	background-color: mediumblue;
 	color: white;
-	padding: 15px;
+	padding: 30px;
 }
 
 .black-background {
@@ -65,8 +65,7 @@ h1 {
 
 .picard {
 	border: 3px solid white;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: 30px;
 }
 
 .janeway {
