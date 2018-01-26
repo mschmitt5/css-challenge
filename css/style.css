@@ -24,7 +24,6 @@ html, body {
 }
 
 .center {
-	width: 65%;
 	margin: auto;
 	text-align: center;
 	align-content: center;
@@ -46,11 +45,15 @@ h1 {
 
 .instructions-content {
 	color: black;
+	flex-grow: 2;
 }
 
 .instructions-wrapper {
 	border: 4px solid black;
     padding: 10px;
+	display: flex;
+	flex-direction: row;
+	margin: 30px;
 }
 
 .left {
@@ -62,12 +65,14 @@ h1 {
 
 .picard {
 	border: 3px solid white;
-	margin: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
 }
 
-.right {
-	float: right;
+.janeway {
+	margin: 20px;
 	width: 25%;
+	height: 25%;
 }
 
 

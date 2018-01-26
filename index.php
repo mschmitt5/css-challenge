@@ -37,7 +37,7 @@
 								<li>Have fun! The solution will be demonstrated in class. <small>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</small></li>
 							</ol>
 						</div>
-						<img src="images/captain-janeway.png" alt="captain janeway" class="right"/>
+						<img src="images/captain-janeway.png" alt="captain janeway" class="janeway"/>
 						<div class="clearfix"></div>
 					</div><!--/.instructions-->
 				</div><!--/.container-->
