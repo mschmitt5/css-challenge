@@ -9,7 +9,7 @@ html, body {
 	margin: 0;
 	box-sizing: border-box;
 	font-family: "Lucida Console";
-	color: lawngreen;
+	color: #00FF06;
 }
 
 .about-me {
@@ -46,11 +46,9 @@ footer {
 }
 
 .form-wrapper {
-    background-color: darkgreen;
-			/*rgba(124, 252, 0, .6);
-			*/
+    background-color: #006400;
     margin: 40px;
-	color: lawngreen;
+	color: #00FF06;
 }
 
 h1 {

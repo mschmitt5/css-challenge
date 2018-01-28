@@ -85,7 +85,7 @@
 
 			<!-- CONTACT FORM -->
 			<section>
-				<div class="container black-background">
+				<div class="black-background">
 					<div class="form-wrapper">
 						<h2>Contact Me! I <3 to fix printers!</h2>
 						<form>
