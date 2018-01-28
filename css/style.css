@@ -75,6 +75,15 @@ body { width: 100%;}
     opacity: .8;
 }
 
+button {
+    background-color: #00FF06;
+    color: black;
+    border-style: none;
+    font-family: "Arial";
+    font-weight: bold;
+    margin-left: 5px;
+}
+
 .center {
     margin: auto;
     text-align: center;
@@ -90,10 +99,11 @@ footer {
 
 .form-wrapper {
     background-color: #006400;
+    color: #00FF06;
+    display: block;
     margin-right: 40px;
     margin-left: 40px;
     padding: 40px;
-    color: #00FF06;
 }
 
 h1 {
@@ -123,6 +133,11 @@ h1 {
     float: left;
     display: inline-block;
     width: 30%;
+}
+
+label, input, textarea {
+    display: block;
+    margin: 5px;
 }
 
 .picard {
